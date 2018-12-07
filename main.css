@@ -9,7 +9,7 @@ body {
     font-family: "Comic Sans MS", Arial, sans-serif;
 }
 
-.title-container, .main-container {
+.title-container, .main-container, .tweets-container {
     width: 75%;
     margin: 1rem auto;
     padding: 1rem;
