@@ -50,8 +50,8 @@ button {
 
     button {
         display: block;
-        margin: .5rem auto;
-        width: 50%;
+        margin: 1rem auto;
+        width: 170px;
     }
 
 }
